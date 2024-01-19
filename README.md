@@ -2,7 +2,7 @@
 
 ###  💬&nbsp;About Me
 
-🔭 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🔭 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Cross-platform application development.\
 📍 &nbsp;I live in Madrid, Spain.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
