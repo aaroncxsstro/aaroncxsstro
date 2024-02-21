@@ -22,6 +22,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![LookerStudio](https://img.shields.io/badge/-LookerStudio-05122A?style=flat&logo=looker)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -38,3 +40,4 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
